@@ -47,7 +47,7 @@ but you could change this to desired DNS server by changing the ip in this code 
 ```
 git clone https://github.com/hazemeldoc/subdomain-brute.git
 cd subdomain-brute
-cargo build
+cargo build "you might get some warnings here just ignore them"
 ```
 
 ## sample run
